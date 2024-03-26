@@ -1,6 +1,6 @@
 ,MCQ,Choices,Correct
-0,Who invented the earliest machine learning model in the 1950s?,a: Donald Hebb | b: Arthur Samuel | c: Walter Pitts | d: Warren McCulloch,b
-1,What was the name of the experimental 'learning machine' developed by Raytheon Company in the early 1960s?,a: Cybertron | b: Robotron | c: Megatron | d: Ultratron,a
-2,What are the two main objectives of modern-day machine learning?,a: Classify data and make predictions | b: Analyze data and create algorithms | c: Create neural networks and analyze data | d: Create algorithms and classify data,a
-3,Who provided a more formal definition of the algorithms studied in the machine learning field?,a: Alan Turing | b: Tom M. Mitchell | c: Donald Hebb | d: Arthur Samuel,b
-4,"What was the main success of researchers from other disciplines including Hopfield, Rumelhart, and Hinton in the mid-1980s?",a: Reinvention of backpropagation | b: Creation of the first neural network | c: Development of the first AI | d: Invention of the first machine learning model,a
+0,Who introduced the earliest machine learning model in the 1950s?,a: Donald Hebb | b: Arthur Samuel | c: Walter Pitts | d: Warren McCulloch,b
+1,What was the name of the experimental 'learning machine' developed by Raytheon Company in the early 1960s?,a: Cybertron | b: Megatron | c: Optimus | d: Bumblebee,a
+2,What are the two main objectives of modern-day machine learning?,a: Classify data and make predictions | b: Analyze data and make predictions | c: Classify data and analyze data | d: Analyze data and store data,a
+3,Who proposed the early mathematical models of neural networks?,a: Donald Hebb | b: Arthur Samuel | c: Walter Pitts and Warren McCulloch | d: Tom M. Mitchell,c
+4,What was the main success of 'connectionism' in the mid-1980s?,a: The reinvention of backpropagation | b: The invention of artificial neural networks | c: The development of reinforcement learning | d: The creation of expert systems,a
