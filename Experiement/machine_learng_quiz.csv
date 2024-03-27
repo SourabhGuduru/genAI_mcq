@@ -1,6 +1,6 @@
 ,MCQ,Choices,Correct
-0,Who introduced the earliest machine learning model in the 1950s?,a: Donald Hebb | b: Arthur Samuel | c: Walter Pitts | d: Warren McCulloch,b
-1,What was the name of the experimental 'learning machine' developed by Raytheon Company in the early 1960s?,a: Cybertron | b: Megatron | c: Optimus | d: Bumblebee,a
-2,What are the two main objectives of modern-day machine learning?,a: Classify data and make predictions | b: Analyze data and make predictions | c: Classify data and analyze data | d: Analyze data and store data,a
-3,Who proposed the early mathematical models of neural networks?,a: Donald Hebb | b: Arthur Samuel | c: Walter Pitts and Warren McCulloch | d: Tom M. Mitchell,c
-4,What was the main success of 'connectionism' in the mid-1980s?,a: The reinvention of backpropagation | b: The invention of artificial neural networks | c: The development of reinforcement learning | d: The creation of expert systems,a
+0,Who introduced the earliest machine learning model in the 1950s?,a: Donald Hebb | b: Arthur Samuel | c: Walter Pitts | d: Warren McCulloch,b: Arthur Samuel
+1,What was the name of the experimental 'learning machine' developed by Raytheon Company in the early 1960s?,a: Cybernet | b: Cybertron | c: Cyberbot | d: Cyberbyte,b: Cybertron
+2,Who provided a formal definition of the algorithms studied in the machine learning field?,a: Tom M. Mitchell | b: Alan Turing | c: Donald Hebb | d: Arthur Samuel,a: Tom M. Mitchell
+3,What are the two main objectives of modern-day machine learning?,a: Classify data and make predictions | b: Analyze data and make predictions | c: Classify data and analyze data | d: Analyze data and improve algorithms,a: Classify data and make predictions
+4,What caused a rift between AI and machine learning?,a: Theoretical and practical problems of data acquisition and representation | b: The reinvention of backpropagation | c: The development of the Cybertron | d: The introduction of the earliest machine learning model,a: Theoretical and practical problems of data acquisition and representation
